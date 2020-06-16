@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple bot made using Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishaan Ahuja",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.2.0",
+    "moment": "^2.26.0",
+    "ms": "^2.1.2",
+    "return-deep-diff": "^0.4.0"
+  }
+}
