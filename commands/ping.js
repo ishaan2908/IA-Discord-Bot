@@ -6,14 +6,14 @@ exports.run = (client, message) => {
 };
 
 exports.conf = {
- 	  enabled: true,
- 	  guildOnly: false,
- 	  aliases: [],
- 	  permLevel: 0
+    enabled: true,
+    guildOnly: false,
+    aliases: [],
+    permLevel: 0
 };
 
 exports.help = {
- 	  name: 'ping',
- 	  description: 'Ping/Pong command. If you are bored, just in case!',
- 	  usage: ' !ping'
+    name: 'ping',
+    description: 'Ping/Pong command. If you are bored, just in case!',
+    usage: ' !ping'
 };
